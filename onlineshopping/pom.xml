@@ -14,9 +14,14 @@
 
 
 	<dependencies>
+		<!-- Linked backend project -->
+		
+<dependency>
+			<groupId>net.kzm</groupId>
+			<artifactId>shoppingbackend</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 		<!-- JSTl -->
-
-
 		<dependency>
 			<groupId>jstl</groupId>
 			<artifactId>jstl</artifactId>
