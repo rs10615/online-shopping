@@ -1,7 +1,7 @@
-package net.kzm.onlineshopping.controller;
+package net.kzn.onlineshopping.controller;
 
-import net.kzm.shoppingbackend.dao.CategoryDAO;
-import net.kzm.shoppingbackend.dto.Category;
+import net.kzn.shoppingbackend.dao.CategoryDAO;
+import net.kzn.shoppingbackend.dto.Category;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
